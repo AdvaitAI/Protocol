@@ -1,3 +1,3 @@
 # Protocol75
-  **Protocol 75** is a simple system for building discipline, consistency, and better habits through daily action.
+ This is a simple system for building discipline, consistency, and better habits through daily action.
 
